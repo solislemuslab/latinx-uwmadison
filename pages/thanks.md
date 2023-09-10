@@ -18,5 +18,5 @@ The event could not have been possible without the planning and financial suppor
 
 <div style="text-align: center;">
     <img src="../assets/pics/wiseli-logo2-color.jpg" width="320">
-    <img src="../assets/pics/WIDHorizontalPlain.pdf" width="320">
+    <img src="../assets/pics/wid.png" width="320">
 </div>
