@@ -4,8 +4,8 @@ title: Thanks
 description: Thanks
 ---
 
-<div class="image123">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="420">
+<div style="text-align: center;">
+    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
 </div>
 
 The event could not have been possible without the planning and financial support of:

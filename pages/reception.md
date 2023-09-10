@@ -4,8 +4,8 @@ title: Reception
 description: Reception
 ---
 
-<div class="image123">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="420">
+<div style="text-align: center;">
+    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
 </div>
 
 ### What?

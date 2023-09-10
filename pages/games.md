@@ -4,8 +4,8 @@ title: Other events
 description: Other events
 ---
 
-<div class="image123">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="420">
+<div style="text-align: center;">
+    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
 </div>
 
 ## <a name="games"></a>Trivia game on Latin America!
