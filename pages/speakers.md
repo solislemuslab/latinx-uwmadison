@@ -68,3 +68,17 @@ description: Speakers
 ### <a name="daniel"></a>Daniel Pimentel-Alarcon
 
 ### <a name="laura"></a>Laura Hernandez
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/laura.jpeg">
+            <img src="../assets/pics/laura.jpeg"
+                  title="Laura" alt="Laura">
+            </a>
+        </div>
+        <div class="span5">
+            Dr. Laura Hernandez (she/her) is a Professor in the Department of Animal and Dairy Sciences and she has an Affiliate appointment in Obstetrics and Gynecology. She is originally from El Paso, Tx. She did her BS and MS degrees in Animal Sciences at New Mexico State University and her Phd in Nutritional Biochemistry at the University of Arizona. After that she did a Post-Doctoral Fellowship at the University of Cincinnati in Molecular and Cellular Physiology. Fun fact, she was a collegiate swimmer, but now she only runs and does lagree. She loves spending time with two kids (Zoe-12, Max-6) and going to sporting events. 
+        </div>
+    </div>
+</div>
