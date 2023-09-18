@@ -3,6 +3,7 @@
 
 1. Please help advertise the event in your departments or campus units (or anyone that could be interested). You can use the same email I've been using for advertisement (copied below), but feel free to edit it!
 
+```
 Subject: Save the date: Latinx event on Oct 5-6
 
 Please save the date to celebrate Latinx voices in STEM as part of Hispanic Heritage Month!
@@ -14,7 +15,7 @@ The event is open to everyone in our UW-Madison community.
 Event information can be found on the website: https://solislemuslab.github.io/latinx-uwmadison/ 
 
 Please help me forward to your departments, campus units or anyone that you think could be interested!
-
+```
 
 2. Contribute to the Spotify list with música latina. We will play this music in the reception. We are looking for happy upbeat music that people usually play on parties. The link to the playlist is 
 https://spotify.link/i4djv1oj2Cb (expiration date Sept 24; will be constantly renewed)
