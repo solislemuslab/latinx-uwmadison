@@ -55,13 +55,27 @@ description: Speakers
             </a>
         </div>
         <div class="span5">
-            Dr. Victor M. Zavala (he/his, <a href="">name pronunciation</a>) is the Baldovin-DaPra Professor in the Department of Chemical and Biological Engineering at the University of Wisconsin-Madison and a senior computational mathematician in the Mathematics and Computer Science Division at Argonne National Laboratory. He holds a B.Sc. degree from Universidad Iberoamericana and a Ph.D. degree from Carnegie Mellon University, both in chemical engineering. He is on the editorial board of the Journal of Process Control, Mathematical Programming Computation, and Computers & Chemical engineering. He is a recipient of NSF and DOE Early Career awards and of the Presidential Early Career Award for Scientists and Engineers (PECASE). His research interests include statistics, control, and optimization and applications to energy and environmental systems. 
+            Dr. Victor M. Zavala (he/his) is the Baldovin-DaPra Professor in the Department of Chemical and Biological Engineering at the University of Wisconsin-Madison and a senior computational mathematician in the Mathematics and Computer Science Division at Argonne National Laboratory. He holds a B.Sc. degree from Universidad Iberoamericana and a Ph.D. degree from Carnegie Mellon University, both in chemical engineering. He is on the editorial board of the Journal of Process Control, Mathematical Programming Computation, and Computers & Chemical engineering. He is a recipient of NSF and DOE Early Career awards and of the Presidential Early Career Award for Scientists and Engineers (PECASE). His research interests include statistics, control, and optimization and applications to energy and environmental systems. 
         </div>
     </div>
 </div>
 
 
 ### <a name="mayra"></a>Mayra Oyola-Merced
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/mayra.JPG">
+            <img src="../assets/pics/mayra.JPG"
+                  title="Mayra" alt="Mayra">
+            </a>
+        </div>
+        <div class="span5">
+            Dr. Mayra Oyola-Merced (she/her) is an Assistant Professor at the Department of Atmospheric and Oceanic Sciences and the University of Wisconsin-Madison. Her research focuses on improving space-borne observation capabilities and how these datasets are used in atmospheric modeling. She was a Scientist at the NASA Jet Propulsion Laboratory and served as the Deputy Director of the International GNSS Service (IGS), where she oversaw a federation of over 250 organizations. She is currently serves in the National Academy of Sciences Committee on Earth Science and Applications from Space, the Board of Representation, Accessibility, Inclusion and Diversity of the American Meteorological Society, among many others.
+        </div>
+    </div>
+</div>
 
 ### <a name="angel"></a>Angel Adames Corraliza
 
@@ -82,3 +96,33 @@ description: Speakers
         </div>
     </div>
 </div>
+
+### <a name="laura"></a>Natalia De Leon Gatti
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/natalia.jpg">
+            <img src="../assets/pics/natalia.jpg"
+                  title="Natalia" alt="Natalia">
+            </a>
+        </div>
+        <div class="span5">
+            Dr. Natalia De Leon Gatti (she/her) is a professor in the Department of Plant and Agroecosystem Sciences and current chair of the Plant Breeding and Plant Genetics program at the University of Wisconsin, Madison. Her research integrates genomic, phenomic and environmental information to accelerate translational research for enhanced sustainable crop productivity. 
+        </div>
+    </div>
+</div>
+
+# Posters
+
+## Ana Maria Vazquez-Catoni (Plant Pathology)
+
+Title: Early Rot of Cranberry: Evaluating grower concerns and Phyllosticta vaccinii presence in vegetatively propagated cuttings
+
+Bio: Ana Maria is a Ph.D. candidate in the department of Plant Pathology at the University of Wisconsin- Madison. She studies how current management of cranberry cuttings impacts pathogen incidence and movement, especially those involved the cranberry fruit rot complex. Her previous research includes addressing grower-oriented questions through the study of tomato and potato plant microbiome with a focus in bacterial endophytes, understanding how biotic and abiotic factors impact plant productivity and product quality and assessing these factors by conducting greenhouse and field studies. When not in the lab, she enjoys cooking, dancing and going to live shows.
+
+ 
+
+
+
+
