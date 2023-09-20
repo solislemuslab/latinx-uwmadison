@@ -81,6 +81,22 @@ description: Speakers
 
 ### <a name="daniel"></a>Daniel Pimentel-Alarcon
 
+### <a name="lucia"></a>Lucia Gutierrez
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/Gutierrez.jpg">
+            <img src="../assets/pics/Gutierrez.jpg"
+                  title="Lucia" alt="Lucia">
+            </a>
+        </div>
+        <div class="span5">
+            Dr. Gutierrez (she/her) is an Associate Professor and the Cereals Breeder and Quantitative Geneticist at the University of Wisconsin-Madison. Dr. Gutierrez earned her Ph.D. in Plant Breeding from Iowa State University and spent time as a postdoc at the Biometris Unit at Wageningen University and Research Center in the Netherlands. She was an Associate Professor in Statistical Genetics at the Universidad de la Republica in Uruguay before joining UW-Madison. Dr. Gutierrez has a strong international recognition being regularly invited to present her research in quantitative genetics and to teach advanced courses for graduate students, researchers, and plant breeders abroad. Dr. Gutierrez has served professional societies and the academic community in several roles including being Chair of the Plant Breeding and Genetics Division of the Crop Science Society of America, member of the Oat Global Board of Directors, the International Oat Nursery Executive and Genomics Committees, and the Steering Committee of the Agricultural Genomes to Phenomes Initiative, a multimillion USDA initiative to support research connecting high throughput phenotyping with genomic data. Her research focuses on resource optimization for large genomic studies and the understanding of the genetic architecture of complex traits and their response to the environment. She integrates state of the art genotyping technologies with large phenotyping experiments to study complex traits and the mechanisms employed by plants for local adaptation including the study of biotic and abiotic interactions. Her research program has also an applied component, which combines strong theoretical development, genomic tools, and high throughput phenotyping to release oat, wheat, and barley cultivars to serve the U.S. agricultural systems. Dr. Gutierrez has mentored more than 25 graduate students, 25 undergraduate students and served in more than 45 graduate student committees in countries as diverse as the U.S., Uruguay, Argentina, Brazil, Sweden, Australia, Norway, and Canada. Her research career includes the publication of more than 50 papers in high impact journals, securing several million dollars in research funds for her research, and the release of 5 oat cultivars. 
+        </div>
+    </div>
+</div>
+
 ### <a name="laura"></a>Laura Hernandez
 
 <div class="container">
@@ -97,7 +113,7 @@ description: Speakers
     </div>
 </div>
 
-### <a name="laura"></a>Natalia De Leon Gatti
+### <a name="natalia"></a>Natalia De Leon Gatti
 
 <div class="container">
     <div class="row-fluid">
