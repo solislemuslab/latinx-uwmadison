@@ -18,7 +18,7 @@ Please help me forward to your departments, campus units or anyone that you thin
 ```
 
 2. Contribute to the Spotify list with música latina. We will play this music in the reception and we want this to be a crowd-sourced list by the comunidad latina. We are looking for happy upbeat music that people usually play on parties. The link to the playlist is 
-https://spotify.link/i4djv1oj2Cb (expiration date Sept 24; will be constantly renewed)
+https://spotify.link/3GXwwkE8kDb (expiration date Sept 30; will be constantly renewed)
 
 
 3. **Call for posters from grad students and postdocs:** If you are interested in presenting an old poster, please send me an email with your name, short bio, department and title of the poster. It does not have to be a new poster. We just want to show the breadth of research topics among the comunidad latina in campus!
