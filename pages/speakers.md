@@ -97,6 +97,8 @@ description: Speakers
     </div>
 </div>
 
+### <a name="alejandra"></a>Daniel Pimentel-Alarcon
+
 ### <a name="laura"></a>Laura Hernandez
 
 <div class="container">

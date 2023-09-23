@@ -20,7 +20,7 @@ Click on the speaker name for bio information.
 | Thursday Oct 5 | 4:45-5:00pm | [Angel Adames Corraliza](https://solislemuslab.github.io/latinx-uwmadison/pages/speakers.html#angel) | The tropical atmosphere does not behave according to conventional wisdom  |
 | Thursday Oct 5 | 5:00-5:15pm | [Daniel Pimentel-Alarcon](https://solislemuslab.github.io/latinx-uwmadison/pages/speakers.html#daniel) | Subspace clustering in many applications |
 | Thursday Oct 5 | 5:15-5:30pm | [Lucia Gutierrez](https://solislemuslab.github.io/latinx-uwmadison/pages/speakers.html#lucia) |  | 
-| Thursday Oct 5 | 5:30-5:45pm |  |  | 
+| Thursday Oct 5 | 5:30-5:45pm | [Alejandra Quintos](https://solislemuslab.github.io/latinx-uwmadison/pages/speakers.html#alejandra) |  | 
 | Thursday Oct 5 | 6:00-7:00pm | [_Reception_](https://solislemuslab.github.io/latinx-uwmadison/pages/reception.html) | Latinx music, snacks, non-alcoholic drinks, and scientific posters from the Latinx UW-Madison community |
 | Friday Oct 6 | 8:00-9:00am | [_"How much do you know about Latin America?" game_](https://solislemuslab.github.io/latinx-uwmadison/pages/games.html#game) | Coffee, cookies, and game |
 | Friday Oct 6 | 9:00-10:00am | **Keynote:** [Ana Maria Porras](https://solislemuslab.github.io/latinx-uwmadison/pages/speakers.html#anamaria) | Latina in STEM - Finding my Research Identity through Comunidad |
