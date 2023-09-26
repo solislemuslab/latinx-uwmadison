@@ -79,6 +79,20 @@ description: Speakers
 
 ### <a name="angel"></a>Angel Adames Corraliza
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/angel.jpg">
+            <img src="../assets/pics/angel.jpg"
+                  title="Angel" alt="Angel">
+            </a>
+        </div>
+        <div class="span5">
+            Ángel (he/his) grew up in the town of San Sebastian in central-west Puerto Rico. Driven by an interest in understanding the physical world, especially the weather and climate of the island, Ángel studied Physics at the University of Puerto Rico-Mayagüez. He obtained a PhD in Atmospheric Sciences from the University of Washington. Right now, Ángel is an assistant professor in the Department of Atmospheric and Oceanic Sciences at UW-Madison. Besides his work, he likes exercise, good food, procrastination, and a good laugh. 
+        </div>
+    </div>
+</div>
+
 ### <a name="daniel"></a>Daniel Pimentel-Alarcon
 
 ### <a name="lucia"></a>Lucia Gutierrez
