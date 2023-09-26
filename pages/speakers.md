@@ -153,6 +153,11 @@ Title: Early Rot of Cranberry: Evaluating grower concerns and Phyllosticta vacci
 
 Bio: Ana Maria is a Ph.D. candidate in the department of Plant Pathology at the University of Wisconsin- Madison. She studies how current management of cranberry cuttings impacts pathogen incidence and movement, especially those involved the cranberry fruit rot complex. Her previous research includes addressing grower-oriented questions through the study of tomato and potato plant microbiome with a focus in bacterial endophytes, understanding how biotic and abiotic factors impact plant productivity and product quality and assessing these factors by conducting greenhouse and field studies. When not in the lab, she enjoys cooking, dancing and going to live shows.
 
+## Marcela Tabima Martinez (Regenerative Biology Research Group)
+
+Title: Assessment of Performance of Endothelialized Small Diameter Engineered Vascular Grafts Under Different Shear Stress Conditions
+
+Bio: Marcela first started to study Pulmonary Hypertension after she was awarded a Fulbright Scholarship in conjunction with Colombian Government to join the Vascular Tissue Biomechanics Laboratory housed in the Department of Biomedical Engineering at University of Wisconsin–Madison under the supervision of Dr. Naomi Chesler. Upon completion of her doctoral studies, she joined the Vascular Medicine Institute at the University of Pittsburgh under the supervision of Dr. Mark Gladwin. She came back to Colombia to join the Biomedical Engineering Department at Universidad de los Andes as an Assistant Professor for three years. She is currently an associate scientist at the University of Wisconsin-Madison.
  
 
 
