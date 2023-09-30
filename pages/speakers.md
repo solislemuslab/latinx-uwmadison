@@ -111,7 +111,21 @@ description: Speakers
     </div>
 </div>
 
-### <a name="alejandra"></a>Daniel Pimentel-Alarcon
+### <a name="alejandra"></a>Alejandra Quintos
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/alejandra.JPG">
+            <img src="../assets/pics/alejandra.JPG"
+                  title="Ale" alt="Ale">
+            </a>
+        </div>
+        <div class="span5">
+            Dr. Alejandra Quintos (she/her) is an Assistant Professor and a Nellie McKay Fellow in the Department of Statistics at the University of Wisconsin-Madison. This year, she is also a Visiting Professor at Universidad Nacional Autónoma de México (UNAM). She completed her Ph.D. in Statistics at Columbia University where she held a Fulbright grant, received the Howard Levene Outstanding Teaching Award, and was one of the finalists for the 2021 and 2022 Presidential Awards for Outstanding Teaching by a Graduate Student at Columbia University. Before graduate school, she had a merit scholarship to major in Actuarial Sciences at Universidad de las Américas Puebla (UDLAP) where she graduated Summa Cum Laude and was the Valedictorian of her class. Alejandra was born and raised in Puebla, Mexico. In her spare time, she enjoys running and has run 8 marathons so far.  
+        </div>
+    </div>
+</div>
 
 ### <a name="laura"></a>Laura Hernandez
 

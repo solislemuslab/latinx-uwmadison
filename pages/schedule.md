@@ -10,6 +10,9 @@ description: Schedule
 
 
 All events will take place in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
+
+**Remote participation:** Anyone can watch the event on YouTube Live [here](https://youtube.com/live/ZBAv9rZC83E?feature=share).
+
 Click on the speaker name for bio information.
 
 | Day | Time | Speaker | Title |  
