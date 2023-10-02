@@ -95,6 +95,20 @@ description: Speakers
 
 ### <a name="daniel"></a>Daniel Pimentel-Alarcon
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+            <a href="../assets/pics/daniel.png">
+            <img src="../assets/pics/daniel.png"
+                  title="Daniel" alt="Daniel">
+            </a>
+        </div>
+        <div class="span5">
+            Daniel (he/his) is an Assistant Professor in Biostatistics at the University of Wisconsin-Madison, where he has a joint appointment with the Wisconsin Institute for Discovery. His research interests include machine learning, signal processing, optimization, statistics, algebraic geometry, and everything data science. 
+        </div>
+    </div>
+</div>
+
 ### <a name="lucia"></a>Lucia Gutierrez
 
 <div class="container">
