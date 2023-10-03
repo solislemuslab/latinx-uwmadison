@@ -188,6 +188,25 @@ Title: Assessment of Performance of Endothelialized Small Diameter Engineered Va
 Bio: Marcela first started to study Pulmonary Hypertension after she was awarded a Fulbright Scholarship in conjunction with Colombian Government to join the Vascular Tissue Biomechanics Laboratory housed in the Department of Biomedical Engineering at University of Wisconsin–Madison under the supervision of Dr. Naomi Chesler. Upon completion of her doctoral studies, she joined the Vascular Medicine Institute at the University of Pittsburgh under the supervision of Dr. Mark Gladwin. She came back to Colombia to join the Biomedical Engineering Department at Universidad de los Andes as an Assistant Professor for three years. She is currently an associate scientist at the University of Wisconsin-Madison.
  
 
+## Jaime Adrian Cordova (Genetics)
+
+Title: Understanding the Evolutionary History of Oxygen-regulated Gene Families in Bacteria
+
+Bio: Jaime is a Ph.D. candidate in the Genome Evolution Laboratory in the Department of Genetics at UW-Madison. He studies the bacterial response to varying levels of oxygen and how those responses have evolved. In addition to his doctoral research, Jaime serves as a Solar System Ambassador volunteer for NASA and the Jet Propulsion Laboratory, doing outreach about the science of space exploration missions and their discoveries.
 
 
+## Cristina Paz (Human Oncology)
 
+Title: Acute and long-term damage on the murine submandibular gland after radiation exposure
+
+Bio: Cristina is a 5th year graduate student in the Kimple Lab as part of the Cancer Biology graduate program and she is one of the Outreach Chairs for GWIS. She earned her Bachelor of Science from Northeastern Illinois University in Chicago, IL and her Master’s from Case Western Reserve University in Cleveland, OH. She is a second-generation immigrant, her parents are from Colombia and Guatemala and my brother and I were born in Oklahoma City, OK. I am happily married, I have 2 cats that I adore and a loving and supportive family that’s helping me through this journey or graduate school.
+
+## Helena Jaramillo Mesa (Plant Pathology)
+
+Title: Extended function of CU-rich tracts in TriMV IRES activity and insights into the evolutionary history of picorna-like superfamily IRES elements
+
+Bio: Helena is a PhD candidate at UW-Madison in the Department of Plant Pathology. She is originally from Medellin, Colombia and she got her Master in Biotechnology at Universidad Nacional de Colombia.
+
+## Luis Torres
+
+Title: Quantification of pulmonary blood flow in idiopathic pulmonary fibrosis using dynamic contrast enhances MRI
