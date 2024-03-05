@@ -1,11 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
-title: El Zoominario
+title: Latinx in STEM
 exclude:
    - README.md
 aux_links:
   "Materials on GitHub":
-    - "//github.com/solislemuslab/el-zoominario"
-footer_content: "Copyright Solis-Lemus lab &copy; 2024. Distributed by an <a href=\"https://github.com/solislemuslab/el-zoominario/blob/master/LICENSE\">MIT license.</a>"
+    - "//github.com/solislemuslab/latinx-uwmadison"
+footer_content: "Copyright Solis-Lemus lab &copy; 2024. Distributed by an <a href=\"https://github.com/solislemuslab/latinx-uwmadison/blob/master/LICENSE\">MIT license.</a>"
 callouts_level: quiet # or loud
 callouts:
   highlight:

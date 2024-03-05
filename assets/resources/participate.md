@@ -1,3 +1,9 @@
+---
+layout: default
+title: Participate!
+nav_exclude: true
+---
+
 # Participate in the "Celebrating Latinx voices in STEM" symposium!
 
 
