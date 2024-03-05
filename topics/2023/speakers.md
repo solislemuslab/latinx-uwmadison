@@ -10,8 +10,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/anamaria.JPG">
-            <img src="../assets/pics/anamaria.JPG"
+            <a href="../../assets/pics/anamaria.JPG">
+            <img src="../../assets/pics/anamaria.JPG"
                   title="Ana Maria" alt="Ana Maria">
             </a>
         </div>
@@ -28,8 +28,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/claudiaSmall1.png">
-            <img src="../assets/pics/claudiaSmall1.png"
+            <a href="../../assets/pics/claudiaSmall1.png">
+            <img src="../../assets/pics/claudiaSmall1.png"
                   title="Claudia" alt="Claudia">
             </a>
         </div>
@@ -46,8 +46,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/victor-zavala_w.jpg">
-            <img src="../assets/pics/victor-zavala_w.jpg"
+            <a href="../../assets/pics/victor-zavala_w.jpg">
+            <img src="../../assets/pics/victor-zavala_w.jpg"
                   title="Victor" alt="Victor">
             </a>
         </div>
@@ -63,8 +63,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/mayra.JPG">
-            <img src="../assets/pics/mayra.JPG"
+            <a href="../../assets/pics/mayra.JPG">
+            <img src="../../assets/pics/mayra.JPG"
                   title="Mayra" alt="Mayra">
             </a>
         </div>
@@ -79,8 +79,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/angel.jpg">
-            <img src="../assets/pics/angel.jpg"
+            <a href="../../assets/pics/angel.jpg">
+            <img src="../../assets/pics/angel.jpg"
                   title="Angel" alt="Angel">
             </a>
         </div>
@@ -95,8 +95,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/daniel.png">
-            <img src="../assets/pics/daniel.png"
+            <a href="../../assets/pics/daniel.png">
+            <img src="../../assets/pics/daniel.png"
                   title="Daniel" alt="Daniel">
             </a>
         </div>
@@ -111,8 +111,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/Gutierrez.jpg">
-            <img src="../assets/pics/Gutierrez.jpg"
+            <a href="../../assets/pics/Gutierrez.jpg">
+            <img src="../../assets/pics/Gutierrez.jpg"
                   title="Lucia" alt="Lucia">
             </a>
         </div>
@@ -127,8 +127,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/alejandra.JPG">
-            <img src="../assets/pics/alejandra.JPG"
+            <a href="../../assets/pics/alejandra.JPG">
+            <img src="../../assets/pics/alejandra.JPG"
                   title="Ale" alt="Ale">
             </a>
         </div>
@@ -143,8 +143,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/laura.jpeg">
-            <img src="../assets/pics/laura.jpeg"
+            <a href="../../assets/pics/laura.jpeg">
+            <img src="../../assets/pics/laura.jpeg"
                   title="Laura" alt="Laura">
             </a>
         </div>
@@ -159,8 +159,8 @@ nav_order: 2
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-            <a href="../assets/pics/natalia.jpg">
-            <img src="../assets/pics/natalia.jpg"
+            <a href="../../assets/pics/natalia.jpg">
+            <img src="../../assets/pics/natalia.jpg"
                   title="Natalia" alt="Natalia">
             </a>
         </div>

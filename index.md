@@ -20,9 +20,9 @@ nav_order: 1
 
 Remembering the "Celebrating Latinx voices in STEM" symposium that took place on Thursday Oct 5 2023 (4-7pm CT) and Friday Oct 6 2023 (8-11am CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 
-**Thursday recording:** [YouTube Recording](https://youtube.com/live/ZBAv9rZC83E?feature=share).
+**Thursday:** [YouTube Recording](https://youtube.com/live/ZBAv9rZC83E?feature=share).
 
-**Friday recording:** [YouTube Recording](https://youtube.com/live/2xhpUQyQ54I?feature=share).
+**Friday:** [YouTube Recording](https://youtube.com/live/2xhpUQyQ54I?feature=share).
 
 Stay tuned for 2024!
 
