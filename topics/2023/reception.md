@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: default
 title: Reception
-description: Reception
+parent: 2023
+nav_order: 2
 ---
-
-<div style="text-align: center;">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
-</div>
 
 ### What?
 

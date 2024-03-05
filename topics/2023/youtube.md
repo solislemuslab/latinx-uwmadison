@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: default
 title: YouTube
-description: YouTube
+parent: 2023
+nav_order: 2
 ---
-
-<div style="text-align: center;">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
-</div>
 
 The event will be broadcasted live on YouTube in the [Solis-Lemus lab YouTube channel](https://www.youtube.com/channel/UCcBcmxIYYGC6Z04p9SC7hwg/featured).
 

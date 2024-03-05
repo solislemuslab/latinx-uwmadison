@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: default
 title: Schedule
-description: Schedule
+parent: 2023
+nav_order: 2
 ---
-
-<div style="text-align: center;">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
-</div>
-
 
 All events will take place in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 

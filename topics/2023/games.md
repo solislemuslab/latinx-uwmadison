@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Other events
-description: Other events
+layout: default
+title: Game and forum
+parent: 2023
+nav_order: 2
 ---
-
-<div style="text-align: center;">
-    <img src="../assets/pics/LATINXinSTEM2.png" width="320">
-</div>
 
 ## <a name="games"></a>Trivia game on Latin America!
 
