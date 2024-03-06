@@ -12,7 +12,7 @@ has_toc: false
 <tr>
   <td class="left">
     <a href="Latinx in STEM">
-        <img src="assets/pics/LATINXinSTEM2.png" alt="diversity" title="Celebrating Latinx voices in STEM"/>
+        <img src="../../assets/pics/LATINXinSTEM2.png" alt="diversity" title="Celebrating Latinx voices in STEM"/>
     </a>
   </td>
   <td class="right">

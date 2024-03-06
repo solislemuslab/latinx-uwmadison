@@ -12,7 +12,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/anamaria.JPG">
             <img src="../../assets/pics/anamaria.JPG"
-                  title="Ana Maria" alt="Ana Maria">
+                  title="Ana Maria" alt="Ana Maria" width="320">
             </a>
         </div>
         <div class="span5">
@@ -30,7 +30,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/claudiaSmall1.png">
             <img src="../../assets/pics/claudiaSmall1.png"
-                  title="Claudia" alt="Claudia">
+                  title="Claudia" alt="Claudia" width="320">
             </a>
         </div>
         <div class="span5">
@@ -48,7 +48,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/victor-zavala_w.jpg">
             <img src="../../assets/pics/victor-zavala_w.jpg"
-                  title="Victor" alt="Victor">
+                  title="Victor" alt="Victor" width="320">
             </a>
         </div>
         <div class="span5">
@@ -65,7 +65,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/mayra.JPG">
             <img src="../../assets/pics/mayra.JPG"
-                  title="Mayra" alt="Mayra">
+                  title="Mayra" alt="Mayra" width="320">
             </a>
         </div>
         <div class="span5">
@@ -81,7 +81,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/angel.jpg">
             <img src="../../assets/pics/angel.jpg"
-                  title="Angel" alt="Angel">
+                  title="Angel" alt="Angel" width="320">
             </a>
         </div>
         <div class="span5">
@@ -97,7 +97,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/daniel.png">
             <img src="../../assets/pics/daniel.png"
-                  title="Daniel" alt="Daniel">
+                  title="Daniel" alt="Daniel" width="320">
             </a>
         </div>
         <div class="span5">
@@ -113,7 +113,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/Gutierrez.jpg">
             <img src="../../assets/pics/Gutierrez.jpg"
-                  title="Lucia" alt="Lucia">
+                  title="Lucia" alt="Lucia" width="320">
             </a>
         </div>
         <div class="span5">
@@ -129,7 +129,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/alejandra.JPG">
             <img src="../../assets/pics/alejandra.JPG"
-                  title="Ale" alt="Ale">
+                  title="Ale" alt="Ale" width="320">
             </a>
         </div>
         <div class="span5">
@@ -145,7 +145,7 @@ nav_order: 2
         <div class="span2">
             <a href="../../assets/pics/laura.jpeg">
             <img src="../../assets/pics/laura.jpeg"
-                  title="Laura" alt="Laura">
+                  title="Laura" alt="Laura" width="320">
             </a>
         </div>
         <div class="span5">
@@ -154,21 +154,6 @@ nav_order: 2
     </div>
 </div>
 
-### <a name="natalia"></a>Natalia De Leon Gatti
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-            <a href="../../assets/pics/natalia.jpg">
-            <img src="../../assets/pics/natalia.jpg"
-                  title="Natalia" alt="Natalia">
-            </a>
-        </div>
-        <div class="span5">
-            Dr. Natalia De Leon Gatti (she/her) is a professor in the Department of Plant and Agroecosystem Sciences and current chair of the Plant Breeding and Plant Genetics program at the University of Wisconsin, Madison. Her research integrates genomic, phenomic and environmental information to accelerate translational research for enhanced sustainable crop productivity. 
-        </div>
-    </div>
-</div>
 
 # Posters
 
