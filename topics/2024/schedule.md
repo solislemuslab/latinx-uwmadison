@@ -15,7 +15,7 @@ All events will take place on Wednesday October 9, 2024 in the DeLuca forum in t
 | :--- | :--- | :---  | 
 | 4:00-5:00pm | **Keynote:** [Christie Tirado](https://christietiradoarte.com/) |  |
 | 5:00-6:00pm | Lightning talks by Latinx members of the UW-Madison community | List of speakers below |
-| 6:00-7:00pm | Networking with Latin music by DJ Papi | |
+| 6:00-7:30pm | Networking with Latin music by DJ Papi (20-min dance lesson with Yoel Cortes-Peña at the beginning) | |
 
 
 ## List of speakers for lightning talks
