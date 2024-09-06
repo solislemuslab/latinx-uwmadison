@@ -18,5 +18,5 @@ We encourage attendees to also check out other seminar talks by Latinx in [El Zo
 
 
 <div style="text-align: center;">
-    <img src="../assets/pics/zoominario-logo.png" width="320">
+    <img src="../../assets/pics/zoominario-logo.png" width="320">
 </div>
