@@ -9,6 +9,7 @@ All events will take place on Wednesday October 9, 2024 in the DeLuca forum in t
 
 **Remote participation:** Anyone can watch the event on YouTube Live [here]().
 
+## Schedule
 
 | Time | Speaker | Title |  
 | :--- | :--- | :---  | 
