@@ -5,11 +5,10 @@ parent: 2024
 nav_order: 3
 ---
 
-All events will take place on Wednesday October 9 in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
+All events will take place on Wednesday October 9, 2024 in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 
 **Remote participation:** Anyone can watch the event on YouTube Live [here]().
 
-Click on the speaker name for bio information.
 
 | Time | Speaker | Title |  
 | :--- | :--- | :---  | 
