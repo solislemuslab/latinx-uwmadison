@@ -7,7 +7,7 @@ nav_order: 2
 
 ### What?
 
-Reception with Latinx music, snacks, non-alcoholic drinks and scientific posters from Latinx community.
+Reception with Latinx music, snacks, non-alcoholic drinks and scientific posters.
 
 Crowd-sourced spotify playlist [here](https://spotify.link/Y8qoOTASwDb).
 

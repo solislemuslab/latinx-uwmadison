@@ -23,7 +23,7 @@ Join us for the "Celebrating Latinx voices in STEAM" symposium on Wednesday Octo
 
 # Don't miss El Zoominario!
 
-We encourage attendees to also check out other seminar talks by Latinx in [El Zoominario YouTube playlist](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx). The list of all El Zoominario speakers can be found in [here](https://solislemuslab.github.io//pages/zoominario.html).
+We encourage attendees to also check out other seminar talks in [El Zoominario YouTube playlist](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx). The list of all El Zoominario speakers can be found in [here](https://solislemuslab.github.io/el-zoominario/).
 
 
 <div style="text-align: center;">
@@ -36,6 +36,7 @@ The event could not have been possible without the planning and financial suppor
 
 - [Wisconsin Institute for Discovery](https://wid.wisc.edu/), especially Laura Red Eagle and Patricia Pointer
 - [CALS Office of Diversity, Equity and Inclusion](https://admin.cals.wisc.edu/offices/dei/)
+- [The Data Science Institute](https://dsi.wisc.edu/)
 
 
 # Meet the organizer
