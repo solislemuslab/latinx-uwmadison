@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# 2023: Celebrating Latinx voices in STEM!
+# 2023: Celebrating Latinx contributions in STEM!
 
 <table class="wide">
 <tr>
@@ -21,7 +21,7 @@ has_toc: false
 </tr>
 </table>
 
-Remembering the "Celebrating Latinx voices in STEM" symposium on Thursday Oct 5 2023 (4-7pm CT) and Friday Oct 6 2023 (8-11am CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
+Remembering the "Celebrating Latinx contributions in STEM" symposium on Thursday Oct 5 2023 (4-7pm CT) and Friday Oct 6 2023 (8-11am CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 
 **Thursday recording:** [YouTube Live](https://youtube.com/live/ZBAv9rZC83E?feature=share).
 

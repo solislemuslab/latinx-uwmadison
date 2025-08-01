@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# 2024: Celebrating Latinx voices in STEAM!
+# 2024: Celebrating Latinx contributions in STEAM!
 
 <table class="wide">
 <tr>
@@ -22,7 +22,7 @@ has_toc: false
 </table>
 
 
-Join us for the "Celebrating Latinx voices in STEAM" symposium on Wednesday October 9 2024 (4-7pm CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
+Join us for the "Celebrating Latinx contributions in STEAM" symposium on Wednesday October 9 2024 (4-7pm CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
 
 Check the schedule [here](https://solislemuslab.github.io/latinx-uwmadison/topics/2024/schedule.html).
 
