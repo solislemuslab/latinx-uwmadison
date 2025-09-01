@@ -8,7 +8,7 @@ nav_order: 1
 <tr>
   <td class="left">
     <a href="Latinx in STEAM">
-        <img src="assets/pics/latinx-ad-2024.png" alt="diversity" title="Celebrating Latinx voices in STEAM"/>
+        <img src="assets/pics/LATINXinSTEM2.png" alt="diversity" title="Celebrating Latinx contributions in STEAM"/>
     </a>
   </td>
   <td class="right">
@@ -17,13 +17,17 @@ nav_order: 1
 </tr>
 </table>
 
+# Celebrating Latinx contributions in STEAM!
 
-Join us for the "Celebrating Latinx contributions in STEAM" symposium on Wednesday October 9 2024 (4-7pm CT) in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6).
+The "Celebrating Latinx contributions in STEAM" symposium took place in October 2023 and October 2024 in the DeLuca forum in the [Discovery Building](https://goo.gl/maps/AeCdxxd4Qx1BGH9k6) with contributions from campus community about Latinx contributions in STEAM. 
+
+Starting in 2025, we are organizing "La Vaporera: Ciencia y Arte en Español" in partnership with the [Wisconsin Science Festival](https://www.wisconsinsciencefest.org/).
 
 
 # Don't miss El Zoominario!
 
-We encourage attendees to also check out other seminar talks in [El Zoominario YouTube playlist](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx). The list of all El Zoominario speakers can be found in [here](https://solislemuslab.github.io/el-zoominario/).
+Check out the monthly seminar series [El Zoominario](https://solislemuslab.github.io/el-zoominario/) with talks in English and Spanish, all recorded and avaliable 
+in the [El Zoominario YouTube playlist](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx). 
 
 
 <div style="text-align: center;">
